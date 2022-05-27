@@ -12,3 +12,12 @@ user.name = '유zㅓ네임'
 user.pswd = '패ss워d'
 ```
 
+스프링에 의존하지 않고 쿼리 실행과 로깅까지 하는 것이 목표.
+
+대충 필요한 라이브러리는:
+
+- mybatis
+- logback
+- lombok
+- fasterxml.jackson
+
